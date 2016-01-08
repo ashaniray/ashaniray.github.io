@@ -7,8 +7,8 @@ categories: Sanskrit
 
 ## Verse 1
 
-**इशा वास्यमिदं सर्वं यत् किञ्च जगत्यां जगत्।**  
-**तेन त्याक्तेन भुञ्जीथा मा गृधः कस्यमिद् धनम्॥**  
+**ईशा  वास्यमिदं सर्वं यत् किञ्च जगत्यां जगत्।**  
+**तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद् धनम्॥**  
 
 Consciousness resides in anything that moves in this universe.
 Hence derive enjoyment out of sacrifice, and never desire for someone else's wealth.
@@ -45,8 +45,6 @@ The following statement is **NOT** true:
 about relativistic corrections and will not hold when v1 and v2 are comparable to the speed of light.
 
 
-
-
 ### Notes on जगत्यां जगत्
 
 Consciousness is present in anything that moves.
@@ -70,6 +68,7 @@ acceleration, resulting in what we call the **'graviational force'**.
 However, why mass causes warping of space is yet to be answered.
 
 #### Electromagnetic Force
+
 
 
 
