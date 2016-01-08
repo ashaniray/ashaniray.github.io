@@ -28,7 +28,7 @@ We are yet to comprehend consciousness.
 
 Consciousness covers us like a cloth around us. It is present everywhere and the ultimate truth.
 
-##### What is Truth
+#### What is Truth
 
 Truth is something which does not change with space, or time, or envioronment.
 For example, there is **truth** in the following statement:
