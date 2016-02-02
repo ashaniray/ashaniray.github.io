@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Programming terms in Sanskrit"
-date:   2016-01-09 15:04:55
+date:   2016-01-11 15:04:55
 categories: Sanskrit
 ---
 
