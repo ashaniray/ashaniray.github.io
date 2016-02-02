@@ -10,3 +10,4 @@ programming | संगणकविधिलेखनप्रक्रिया
 function | नियोज्य
 algorithm | विधिकल्प, अभियुक्ति
 
+More to come..
